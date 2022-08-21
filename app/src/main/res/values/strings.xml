@@ -2,4 +2,15 @@
     <string name="app_name">FireBase</string>
     <string name="entrar">Entrar</string>
     <string name="text_cadastro">Crie uma conta clicando aqui</string>
+
+    <string name="title_cadastro">Cadastre-se</string>
+    <string name="nome_cadastro">Nome</string>
+    <string name="email_cadastro">Email</string>
+    <string name="senha_cadastro">Senha</string>
+    <string name="text_cadastrar">Cadastrar</string>
+
+
+    <string name="nome_user">Richard Viana Passos</string>
+    <string name="email_user">meuemail@gmail.com</string>
+    <string name="deslogar">Deslogar</string>
 </resources>

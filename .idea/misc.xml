@@ -6,8 +6,11 @@
         <entry key="..\:/Users/User/AndroidStudioProjects/FireBase/app/src/main/res/drawable/background.xml" value="0.2" />
         <entry key="..\:/Users/User/AndroidStudioProjects/FireBase/app/src/main/res/drawable/button.xml" value="0.18" />
         <entry key="..\:/Users/User/AndroidStudioProjects/FireBase/app/src/main/res/drawable/container_components.xml" value="0.251" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/FireBase/app/src/main/res/drawable/container_user.xml" value="0.1625" />
         <entry key="..\:/Users/User/AndroidStudioProjects/FireBase/app/src/main/res/drawable/edit_text.xml" value="0.251" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/FireBase/app/src/main/res/layout/activity_form_cadastro.xml" value="0.25" />
         <entry key="..\:/Users/User/AndroidStudioProjects/FireBase/app/src/main/res/layout/activity_form_login.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/FireBase/app/src/main/res/layout/activity_tela_principal.xml" value="0.25" />
       </map>
     </option>
   </component>
